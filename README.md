@@ -1,4 +1,4 @@
-# debit_card_generator_prac_day_03
+# Debit Card Generator UI
 
 A new Flutter project.
 
